@@ -32,9 +32,7 @@ Port-status: sent form a switch to the controller upon port status changes.
 
 The following figure depicts the solution architecture:
 
-
-
-
+![alt text](https://github.com/Maiass/Sieve/blob/main/sieve.png?raw=true)
 
 
 
